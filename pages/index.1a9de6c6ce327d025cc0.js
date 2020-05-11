@@ -148,7 +148,20 @@
         },
         338: function (e, t) {
             e.exports = function (e) {
-                e.options.__i18n = e.options.__i18n || [], e.options.__i18n.push('{"ja":{"title":"Helixes Inc.","solutions":"Helixesは、クリエイティビティを用いてブランドの課題を解決します。型にはまらない発想と精錬されたアウトプット、自社事業にて積み重ねた知識と知恵を以て、世の中を前進させるソリューションを提案します。","creative":"グラフィック、映像、デジタルなど目的に最適なクリエイティブを用いて、ブランドに新たなストーリーを紡ぎます。","services":"異なる領域で複数の事業を展開。クリエイティブワークの知見を活かし、社会を前へ進める事業を創出しています。"},"en":{"title":"Helixes Inc.","solutions":"Helixes solves brand issues with creativity. We provide solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses.","creative":"We spin new stories for brands through ideal creative for the purpose such as graphics, images, digital and so on.","services":"We develop multiple businesses in various fields. We create businesses which advance society by utilizing knowledge of creative works."}}'), delete e.options._Ctor
+                e.options.__i18n = e.options.__i18n || [], e.options.__i18n.push('{
+                    "cn": {
+                        "title": "Helixes Inc.",
+                        "solutions": "Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。",
+                        "creative": "我们将使用最适合您目的的广告素材（例如图形，视频和数字广告）为您的品牌创建新故事。",
+                        "services": "在不同领域发展多种业务。 我们正在利用我们对创意工作的知识来创造能够促进社会发展的业务。"
+                    },
+                    "en": {
+                        "title": "Helixes Inc.",
+                        "solutions": "Helixes solves brand issues with creativity. We provide solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses.",
+                        "creative": "We spin new stories for brands through ideal creative for the purpose such as graphics, images, digital and so on.",
+                        "services": "We develop multiple businesses in various fields. We create businesses which advance society by utilizing knowledge of creative works."
+                    }
+                }'), delete e.options._Ctor
             }
         },
         384: function (e, t, o) {
