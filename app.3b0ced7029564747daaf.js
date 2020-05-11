@@ -74,7 +74,7 @@
             },
             w = !1,
             x = !1,
-            y = "https://helixes.co",
+            y = "https://reedcreative.cc",
             k = {
                 moduleName: "i18n",
                 syncLocale: !1,
@@ -289,7 +289,7 @@
                                 base: "/",
                                 env: {
                                     type: "production",
-                                    baseUrl: "https://helixes.co",
+                                    baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
                                     assetsDir: "https://helixes.s3.amazonaws.com/web/assets",
                                     wpBaseUrl: "https://wp.helixes.co",
@@ -2476,7 +2476,7 @@
                 data: function () {
                     return {
                         type: "production",
-                        baseUrl: "https://helixes.co",
+                        baseUrl: "https://reedcreative.cc",
                         isLoading: !0,
                         isLoaded: !1,
                         isLaw: !0,
@@ -4460,7 +4460,7 @@
                     link: [{
                         rel: "icon",
                         type: "image/x-icon",
-                        href: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/favicon.ico"
+                        href: "https://reedcreative.cc/assets/img/common/icons/favicon.ico"
                     }, {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
