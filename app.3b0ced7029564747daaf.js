@@ -291,7 +291,7 @@
                                     type: "production",
                                     baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
-                                    assetsDir: "https://reedcreative.cc/assets",
+                                    assetsDir: "https://helixes.s3.amazonaws.com/web/assets",
                                     wpBaseUrl: "https://wp.helixes.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://helixes.s3.amazonaws.com",
@@ -4379,7 +4379,7 @@
                         content: "#FF4E50"
                     }, {
                         name: "msapplication-TileImage",
-                        content: "https://reedcreative.cc/assets/img/common/icons/mstile-150x150.png"
+                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/mstile-150x150.png"
                     }, {
                         hid: "description",
                         name: "description",
@@ -4403,7 +4403,7 @@
                     }, {
                         hid: "twitter:image",
                         property: "twitter:image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
                     }, {
                         hid: "og:type",
                         property: "og:type",
@@ -4419,7 +4419,7 @@
                     }, {
                         hid: "og:image",
                         property: "og:image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
                     }, {
                         hid: "og:image:width",
                         property: "og:image:width",
@@ -4447,7 +4447,7 @@
                     }, {
                         hid: "itemprop:image",
                         itemprop: "image",
-                        content: "https://reedcreative.cc/assets/img/common/share.png"
+                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
                     }, {
                         hid: "mobile-web-app-capable",
                         name: "mobile-web-app-capable",
@@ -8314,7 +8314,7 @@
                     contact: "info[at]reedcreative[dot]cc",
                     jobs: "jobs[at]reedcreative[dot]cc"
                 }
-            }, t.path = {}, t.path.baseUrl = "https://reedcreative.cc/assets";
+            }, t.path = {}, t.path.baseUrl = "https://helixes.s3.amazonaws.com/web/assets";
             var e = detect.webp ? "webp" : "jpg",
                 o = !detect.webm || ua.ios || ua.ipados ? "mp4" : "webm";
             t.path = {
