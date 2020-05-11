@@ -218,16 +218,17 @@
                                     poster: ""
                                 }
                             },
+                            /* Creative URL*/
                             creative: [{
                                 ttl: "Strategy & Branding"
                             }, {
-                                ttl: "Content Production"
+                                ttl: "UX + Product Strategy"
                             }, {
-                                ttl: "Digital Communication"
+                                ttl: "Product + Experience Design"
                             }, {
                                 ttl: "Visual Design"
                             }, {
-                                ttl: "Artist Management"
+                                ttl: "Design System"
                             }],
                             /* Service URL */
                             services: [{
