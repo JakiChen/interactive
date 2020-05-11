@@ -6042,7 +6042,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"〒111-0053","address":"東京都台東区浅草橋1丁目3-11 萬賓ビル 3F","phone":"03-5829-6856"},"en":{"zip":"111-0053","address":"Manbou BLD. 3F, 1-3-11 Asakusabashi, Taito-ku, Tokyo","phone":"+03 5829 6856"}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":""},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":""}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(243);
@@ -6054,7 +6054,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"〒111-0053","address":"東京都台東区浅草橋1丁目3-11 萬賓ビル 3F","phone":"03-5829-6856","profile":"Helixesは、クリエイティビティを用いてブランドの課題を解決します。 型にはまらない発想と精錬されたアウトプット、自社事業にて積み重ねた知識と知恵を以て、世の中を前進させるソリューションを提案します。"},"en":{"zip":"111-0053","address":"Manbou BLD. 3F, 1-3-11 Asakusabashi, Taito-ku, Tokyo","phone":"+03 5829 6856","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"","profile":"Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(245);
@@ -6074,7 +6074,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"cookie":"当サイトではサービス向上および、お客様により適したサービスを提供するため、クッキーを利用しています。","more":"詳しく見る"},"en":{"cookie":"This website uses cookies to ensure you get the best experience on our website.","more":"Learn More"}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"cookie":"本网站使用cookie来改善我们的服务并为您提供更好的服务。","more":"查看详情"},"en":{"cookie":"This website uses cookies to ensure you get the best experience on our website.","more":"Learn More"}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(249);
