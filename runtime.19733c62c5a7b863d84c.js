@@ -55,7 +55,7 @@
                         10: "pages/contact/index",
                         11: "pages/index",
                         12: "pages/legals/index",
-                        13: "pages/news/_slug",
+                        13: "pages/news/slug",
                         14: "pages/news/category/_category",
                         15: "pages/news/category/index",
                         16: "pages/news/index",
