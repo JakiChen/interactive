@@ -8370,8 +8370,9 @@
                         poster: "".concat(t.path.baseUrl, "/img/careers/poster-careers.").concat(e)
                     }
                 },
+                /* Google maps */
                 urls: {
-                    gmaps: "https://goo.gl/maps/Wg14rHnsyy2tmVR17",
+                    gmaps: "https://maps.apple.com/?q=39.977787,116.416800&sll=39.977787,116.416800&sspn=0.064847,0.118817&t=m",
                     profileJa: "https://docs.google.com/presentation/d/1VCAORAWlHpMNoqHXx_MUo1VopiM1GAmbpf-T_jiLqxQ/edit?usp=sharing",
                     profileEn: "https://docs.google.com/presentation/d/1VCAORAWlHpMNoqHXx_MUo1VopiM1GAmbpf-T_jiLqxQ/edit?usp=sharing"
                 }
