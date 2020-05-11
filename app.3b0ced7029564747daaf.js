@@ -8309,9 +8309,10 @@
                     largeDesktop: 1600,
                     fullHD: 1920
                 },
+                /* emails for contact */
                 emails: {
-                    contact: "hello[at]helixes[dot]co",
-                    jobs: "jobs[at]helixes[dot]co"
+                    contact: "info[at]reedcreative[dot]cc",
+                    jobs: "jobs[at]reedcreative[dot]cc"
                 }
             }, t.path = {}, t.path.baseUrl = "https://helixes.s3.amazonaws.com/web/assets";
             var e = detect.webp ? "webp" : "jpg",
