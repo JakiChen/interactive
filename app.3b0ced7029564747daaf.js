@@ -1844,7 +1844,7 @@
                 }, [o("span", {
                     staticClass: "txt"
                 }, [t._v("Legal Mentions")])]), t._v(" "), o("p", {
-                    staticClass: "copyright"
+                    staticClass: "copyright" /* CopyRight */
                 }, [o("small", [t._v("© " + t._s(t.copyrightYear) + " Helixes, Inc.")])])])])]), t._v(" "), o("div", {
                     staticClass: "footer-scroll-top",
                     on: {
