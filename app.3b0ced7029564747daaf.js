@@ -4464,47 +4464,47 @@
                     }, {
                         rel: "apple-touch-icon",
                         sizes: "180x180",
-                        href: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/apple-touch-icon.png"
+                        href: "https://reedcreative.cc/assets/img/common/icons/apple-touch-icon.png"
                     }, {
                         rel: "manifest",
-                        href: "https://helixes.co/assets/img/common/icons/manifest.json"
+                        href: "https://reedcreative.cc/assets/img/common/icons/manifest.json"
                     }, {
                         rel: "mask-icon",
                         color: "#FF4E50",
-                        href: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/safari-pinned-tab.svg"
+                        href: "https://reedcreative.cc/assets/img/common/icons/safari-pinned-tab.svg"
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Regular.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Medium.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-nova/HKNova-Bold.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-nova/HKNova-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Regular.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Medium.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
                     }, {
                         rel: "preload",
-                        href: "https://helixes.co/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
+                        href: "https://reedcreative.cc/assets/fonts/hk-grotesk-pro/HKGroteskPro-Bold.woff2",
                         as: "font",
                         type: "font/woff2",
                         crossorigin: ""
