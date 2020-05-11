@@ -6042,7 +6042,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"+86 1511 000 4023"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"+86 1511 000 4023"}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"NaN"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(243);
@@ -6054,7 +6054,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"+86 1511 000 4023","profile":"Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"+86 1511 000 4023","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"NaN","profile":"Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(245);
