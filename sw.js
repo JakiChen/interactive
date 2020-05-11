@@ -35,7 +35,7 @@ workbox.precaching.precacheAndRoute([
 // --------------------------------------------------
 
 // Register route handlers for runtimeCaching
-workbox.routing.registerRoute(new RegExp('https://helixes.co/'), new workbox.strategies.CacheFirst ({}), 'GET')
+workbox.routing.registerRoute(new RegExp('https://reedcreative.cc/'), new workbox.strategies.CacheFirst ({}), 'GET')
 
 // Register router handler for offlinePage
 workbox.routing.registerRoute(new RegExp('/'), ({event}) => {
