@@ -295,7 +295,7 @@
                                     wpBaseUrl: "https://wp.helixes.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://helixes.s3.amazonaws.com",
-                                    baseDescJa: "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。",
+                                    baseDescJa: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
                                     baseDescEn: "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                                     analyticsId: "UA-155016984-1"
                                 }
@@ -4383,7 +4383,7 @@
                     }, {
                         hid: "description",
                         name: "description",
-                        content: "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。"
+                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "twitter:card",
                         property: "twitter:card",
@@ -4399,7 +4399,7 @@
                     }, {
                         hid: "twitter:description",
                         property: "twitter:description",
-                        content: "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。"
+                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "twitter:image",
                         property: "twitter:image",
@@ -4415,7 +4415,7 @@
                     }, {
                         hid: "og:description",
                         property: "og:description",
-                        content: "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。"
+                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "og:image",
                         property: "og:image",
@@ -4443,7 +4443,7 @@
                     }, {
                         hid: "itemprop:description",
                         itemprop: "description",
-                        content: "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。"
+                        content: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。"
                     }, {
                         hid: "itemprop:image",
                         itemprop: "image",
@@ -6042,7 +6042,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"NaN"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(243);
@@ -6054,7 +6054,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国（北京市）朝阳区小关东里14号","phone":"NaN","profile":"Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN","profile":"Helixes 利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。Helixes利用创造力解决品牌挑战。 我们凭借非常规的想法，精巧的输出以及通过我们自己的业务积累的知识和智慧，提出了可促进世界发展的解决方案。"},"en":{"zip":"100 029","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN","profile":"Helixes solves brand issues with creativity. We suggest solutions which advance the world with unconventional ideas, refined output and knowledge and wisdom accumulated through our own businesses."}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(245);
@@ -6074,7 +6074,7 @@
         })
     }, function (t, e) {
         t.exports = function (t) {
-            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"cookie":"本网站使用cookie来改善我们的服务并为您提供更好的服务。","more":"查看详情"},"en":{"cookie":"This website uses cookies to ensure you get the best experience on our website.","more":"Learn More"}}'), delete t.options._Ctor
+            t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"cookie":" 本站使用cookie来收集和分析网站的性能和使用情况，以便我们为您提供更好的服务。","more":"查看详情"},"en":{"cookie":"This website uses cookies to ensure you get the best experience on our website.","more":"Learn More"}}'), delete t.options._Ctor
         }
     }, function (t, e, o) {
         var content = o(249);

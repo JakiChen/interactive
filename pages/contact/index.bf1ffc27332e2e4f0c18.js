@@ -148,7 +148,7 @@
         },
         318: function (t, e) {
             t.exports = function (t) {
-                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Contact","zip":"〒111-0053","address":"東京都台東区浅草橋1丁目3-11 萬賓ビル 3F","phone":"03-5829-6856"},"en":{"title":"Contact","zip":"111-0053","address":"Manbou BLD. 3F, 1-3-11 Asakusabashi, Taito-ku, Tokyo","phone":"+03 5829 6856"}}'), delete t.options._Ctor
+                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"Contact","zip":"100 029","address":"中国 | 北京市朝阳区小关东里14号","phone":"NaN"},"en":{"title":"Contact","zip":"111-0053","address":"No.14, Xiaoguan Dongli，Chaoyang District, Beijing China","phone":"NaN"}}'), delete t.options._Ctor
             }
         },
         354: function (t, e, n) {
@@ -187,7 +187,7 @@
                     data: function () {
                         return {
                             title: this.$t.bind(this)("title"),
-                            description: "ja" === this.$i18n.locale ? "株式会社Helixesは、クリエイティブを用いて課題を解決する、トータルプランニングカンパニーです。広告制作をはじめ、ブランドやデジタルプロダクトの開発、アーティストマネジメントなど、枠にとらわれない様々なモノ、コトを総合的に企画・運営しています。" : "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
+                            description: "ja" === this.$i18n.locale ? "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。" : "Helixes Inc. is a planning company uses creativity to solve problems. We integrate strategy, creativity and experience to build brands.",
                             className: "contact",
                             headerTitle: "Contact",
                             headerSubTitle: "Get in touch",
