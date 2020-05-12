@@ -4457,7 +4457,7 @@
                     }, {
                         hid: "author",
                         name: "author",
-                        content: "Garden Eight"
+                        content: "AuThour_"
                     }],
                     link: [{
                         rel: "icon",
@@ -8300,7 +8300,7 @@
             t.info = {
                 version: "2.11.0",
                 update: "2020-02-21",
-                develop: "Garden Eight"
+                develop: "AuThour_"
             }, t.configs = {
                 breakpoints: {
                     mobile: 680,
@@ -8316,7 +8316,7 @@
                     contact: "info[at]reedcreative[dot]cc",
                     jobs: "jobs[at]reedcreative[dot]cc"
                 }
-            }, t.path = {}, t.path.baseUrl = "https://helixes.s3.amazonaws.com/web/assets";
+            }, t.path = {}, t.path.baseUrl = "https://reedcreative.cc" /*https://helixes.s3.amazonaws.com/web/assets*/;
             var e = detect.webp ? "webp" : "jpg",
                 o = !detect.webm || ua.ios || ua.ipados ? "mp4" : "webm";
             t.path = {
