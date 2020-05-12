@@ -184,6 +184,7 @@
                 return t
             }
             var d = {
+                /* JobPositions lists Data */
                     data: function () {
                         return {
                             title: this.$t.bind(this)("title"),
@@ -201,16 +202,16 @@
                                 movie: "",
                                 poster: ""
                             },
-                            jobPositions: [{
+                            jobPositions: [/*{
                                 title: "Account Executive",
                                 slug: "account-executive"
                             }, {
                                 title: "Creative Director",
                                 slug: "creative-director"
-                            }, {
+                            }, */{
                                 title: "Strategic Planner",
                                 slug: "strategic-planner"
-                            }, {
+                            }/*, {
                                 title: "Director",
                                 slug: "director"
                             }, {
@@ -219,7 +220,7 @@
                             }, {
                                 title: "Intern",
                                 slug: "intern"
-                            }]
+                            }*/]
                         }
                     },
                     head: function () {
