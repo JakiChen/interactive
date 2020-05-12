@@ -291,7 +291,7 @@
                                     type: "production",
                                     baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
-                                    assetsDir: "https://helixes.s3.amazonaws.com/web/assets",
+                                    assetsDir: "https://reedcreative.cc/assets",
                                     wpBaseUrl: "https://wp.helixes.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://helixes.s3.amazonaws.com",
@@ -8316,7 +8316,7 @@
                     contact: "info[at]reedcreative[dot]cc",
                     jobs: "jobs[at]reedcreative[dot]cc"
                 }
-            }, t.path = {}, t.path.baseUrl = "https://reedcreative.cc" /*https://helixes.s3.amazonaws.com/web/assets*/;
+            }, t.path = {}, t.path.baseUrl = "https://reedcreative.cc/assets";
             var e = detect.webp ? "webp" : "jpg",
                 o = !detect.webm || ua.ios || ua.ipados ? "mp4" : "webm";
             t.path = {
