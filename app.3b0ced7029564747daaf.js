@@ -291,7 +291,7 @@
                                     type: "production",
                                     baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
-                                    assetsDir: "https://reedcreative.cc",
+                                    assetsDir: "https://helixes.s3.amazonaws.com/web/assets",
                                     wpBaseUrl: "https://wp.helixes.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://helixes.s3.amazonaws.com",
