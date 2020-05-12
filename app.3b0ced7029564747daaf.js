@@ -4347,6 +4347,7 @@
                 }), [], !1, null, null, null).exports
             }),
             pe = {
+                /* config head */
                 head: {
                     titleTemplate: "Helixes Inc.",
                     meta: [{
@@ -4356,7 +4357,7 @@
                         content: "IE=edge"
                     }, {
                         name: "google-site-verification",
-                        content: "JCE9yBOE3OpfSzkaRaCMWBi8ZkHPUdWW-kRRQyEGEYw"
+                        content: "googleVerfication"
                     }, {
                         name: "viewport",
                         content: "width=device-width, initial-scale=1"
@@ -4380,7 +4381,7 @@
                         content: "#FF4E50"
                     }, {
                         name: "msapplication-TileImage",
-                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/icons/mstile-150x150.png"
+                        content: "https://reedcreative.cc/assets/img/common/icons/mstile-150x150.png"
                     }, {
                         hid: "description",
                         name: "description",
@@ -4404,7 +4405,7 @@
                     }, {
                         hid: "twitter:image",
                         property: "twitter:image",
-                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
+                        content: "https://reedcreative.cc/assets/img/common/share.png"
                     }, {
                         hid: "og:type",
                         property: "og:type",
@@ -4420,7 +4421,7 @@
                     }, {
                         hid: "og:image",
                         property: "og:image",
-                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
+                        content: "https://reedcreative.cc/assets/img/common/share.png"
                     }, {
                         hid: "og:image:width",
                         property: "og:image:width",
@@ -4436,7 +4437,7 @@
                     }, {
                         hid: "og:url",
                         property: "og:url",
-                        content: "https://helixes.co"
+                        content: "https://reedcreative.cc"
                     }, {
                         hid: "itemprop:name",
                         itemprop: "name",
@@ -4448,7 +4449,7 @@
                     }, {
                         hid: "itemprop:image",
                         itemprop: "image",
-                        content: "https://helixes.s3.amazonaws.com/web/assets/img/common/share.png"
+                        content: "https://reedcreative.cc/assets/img/common/share.png"
                     }, {
                         hid: "mobile-web-app-capable",
                         name: "mobile-web-app-capable",
@@ -4511,13 +4512,13 @@
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
-                        href: "https://helixes.co"
+                        href: "https://reedcreative.cc"
                     }, {
                         rel: "preconnect",
-                        href: "https://wp.helixes.co"
+                        href: "https://wp.reedcreative.cc"
                     }, {
                         rel: "preconnect",
-                        href: "https://helixes.s3.amazonaws.com",
+                        href: "https://reedcreative.s3.amazonaws.com",
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
