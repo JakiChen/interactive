@@ -4512,13 +4512,13 @@
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
-                        href: "https://reedcreative.cc"
+                        href: "https://reedcreative.cc" /* 系统库 */
                     }, {
                         rel: "preconnect",
-                        href: "https://wp.reedcreative.cc"
+                        href: "https://wp.reedcreative.cc" /* 新闻库 */
                     }, {
                         rel: "preconnect",
-                        href: "https://strapi.reedcreative.cc",
+                        href: "https://strapi.reedcreative.cc", /* 资源库 */
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
