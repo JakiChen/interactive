@@ -7780,7 +7780,7 @@
                         n.src = t, n.onload = function () {
                             o._loadedImage(t, e)
                         }, n.onerror = function () {
-                            console.warn("Broken image or wrong path: " + "message"/*convertSrc*/), o._detectTypes(o.onError, "function", Function) && o.onError(t)
+                            console.warn("Broken image or wrong path: " + convertSrc), o._detectTypes(o.onError, "function", Function) && o.onError(t)
                         }
                     }, t._loadedImage = function (t, e) {
                         this.num.count++, this.num.progress = this.num.count / this.num.total, this._detectTypes(this.onProgress, "function", Function) && this.onProgress(this.num.progress, t), this.num.total === this.num.count && this._completedImages()
