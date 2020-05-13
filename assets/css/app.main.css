@@ -1,5 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap');
 @font-face {
     font-family: HK Nova;
     font-style: normal;
@@ -348,6 +349,10 @@ body {
     font-family: Noto Sans CJK JP, -apple-system, BlinkMacSystemFont, sans-serif;
     font-variant-east-asian: proportional-width
 }
+[lang=zh-CN] body {
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-variant-east-asian: proportional-width
+}
 [lang=en] body {
     font-family: HK Grotesk Pro, -apple-system, BlinkMacSystemFont, sans-serif
 }
@@ -380,6 +385,9 @@ color:silver
 }
 .ja {
     font-family: Noto Sans CJK JP, -apple-system, BlinkMacSystemFont, sans-serif
+}
+.ja {
+    font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif
 }
 .p-careers-details .subpage-hero-ttl .back, .p-careers-details .subpage-hero-ttl .front, .p-careers-details .subpage-hero-ttl .words, .p-legals .subpage-hero-ttl .back, .p-legals .subpage-hero-ttl .front, .p-legals .subpage-hero-ttl .words {
     padding: 6px 0
