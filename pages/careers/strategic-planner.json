@@ -1,0 +1,120 @@
+// JSON Document
+{
+    "ja": {
+        "title": "Strategic Planner",
+        "jobDescription": "战略规划师通过参与从产品开发到传播策略的最高层次的营销活动来制定广告策略。 我们将通过调查分析数据，并充分利用这些结果，根据数据制定主管客户的品牌策略，传播策略等。",
+        "jobOutlineTtl": {
+            "1": "就业形式",
+            "2": "工作地点",
+            "3": "薪水"
+        },
+        "jobOutlineTxt": {
+            "1": "专职员工(中途)<br/>合同员工<br/>业务外包<br/><span class=\\"note\\">(试用期3个月)</span>",
+            "2": "北京",
+            "3": "面议"
+        },
+        "jobMoreOutlineLabel": "详细",
+        "jobMoreOutlineTtl": {
+            "1": "工作时间",
+            "2": "福利待遇",
+            "3": "节假日·休息"
+        },
+        "jobMoreOutlineTxt": {
+            "1": "10:00 ~ 19:00 (1小时休息)<br/>(10:00 ~ 22:00 弹性工作时间)",
+            "2": "工资将根据我们的规定，在面试后根据经验，能力和以前工作的工资确定。",
+            "3": "每周2天•年假•法定节假日•调休"
+        },
+        "jobDo": {
+            "1": "听取客户问题",
+            "2": "市场研究，分析",
+            "3": "规划解决问题的思路并执行解决方案",
+            "4": "规划广告策略",
+            "5": "广告策划/方向",
+            "6": "向客户提出可行性方案/计划"
+        },
+        "jobSkillTtl": {
+            "1": "基本条件",
+            "2": "先决条件",
+            "3": "加分项"
+        },
+        "jobBasicSkills": {
+            "1": "学历/性别，不限",
+            "2": "热爱制造业",
+            "3": "对行业热爱，愿接受新事物合新技术",
+            "4": "对工作充满热情"
+        },
+        "jobRequiredSkills": {
+            "1": "具有挑战规划师（或同等学历）经验",
+            "2": "擅长营销研究和分析，并能狗领导广告策略规划",
+            "3": "基本的商务PC技能，例如 Excel 和 Word",
+            "4": "懂基本的商务礼仪"
+        },
+        "jobEntrySkills": {
+            "1": "有代理商或创意代理商工作经验",
+            "2": "高效的沟通能力",
+            "3": "思维敏捷，灵活应变各种突发状况处理能力",
+            "4": "了解/熟悉掌握 Adobe 家族软件",
+            "5": "掌握两门以上语言（英语）",
+            "6": "精通数字领域"
+        }
+    },
+    "en": {
+        "title": "Strategic Planner",
+        "jobDescription": "Strategic planner work engaging with aspects ranging from product development to communication strategy, establishing advertising strategy from top-level marketing.<br/>Analyze data from surveys and use the findings to their maximum potential for applications such as brand and communication strategy for your clients, and make proposals based on this data.",
+        "jobOutlineTtl": {
+            "1": "Contract type",
+            "2": "Location",
+            "3": "Salary"
+        },
+        "jobOutlineTxt": {
+            "1": "Full-time employee (mid-career)<br/>Contract employee<br/>Business consignment<br/><span class=\\"
+            note\\ ">(Trial period: 3 months)</span>",
+            "2": "Tokyo",
+            "3": "Ask"
+        },
+        "jobMoreOutlineLabel": "Details",
+        "jobMoreOutlineTtl": {
+            "1": "Flextime",
+            "2": "Benefits",
+            "3": "Holiday"
+        },
+        "jobMoreOutlineTxt": {
+            "1": "10:00 a.m. to 7:00 p.m.（1 hour break）<br/>*Flextime between 10:00 a.m. to 10:00 p.m.",
+            "2": "The salary will be decided after the interview based on company regulations considering your experience, skills, and pay at your previous job.<br/><br/>Transportation: fully paid<br/>Various insurances: fully covered",
+            "3": "Five-day work week, Annual leave, Statutory holiday,  Adjusted holiday"
+        },
+        "jobDo": {
+            "1": "Conducting interviews related to client problems",
+            "2": "Marketing research and analysis",
+            "3": "Proposing ideas for solving problems, carrying out planning for execution of solutions",
+            "4": "Proposing advertising strategy",
+            "5": "Proposing and directing advertising",
+            "6": "Proposing projects to clients"
+        },
+        "jobSkillTtl": {
+            "1": "Basic",
+            "2": "Requirements",
+            "3": "Entry Conditions"
+        },
+        "jobBasicSkills": {
+            "1": "Educational History / Gender unnecessary",
+            "2": "Likes making things",
+            "3": "Shows great desire to take in new technologies",
+            "4": "Works with passion"
+        },
+        "jobRequiredSkills": {
+            "1": "Experience as a strategic planner (or equivalent)",
+            "2": "Proficient in marketing research and analysis, and capable of taking the lead in planning advertising strategies.",
+            "3": "Basic PC skills for business such as Excel and Word",
+            "4": "Basic business manners"
+        },
+        "jobEntrySkills": {
+            "1": "Work experience at agencies or creative agencies",
+            "2": "High communication skills",
+            "3": "Cheerful, flexible, and highly responsive",
+            "4": "Capable of using Adobe software",
+            "5": "Knows a second language",
+            "6": "Deep knowledge in the digital domain"
+        }
+    }
+}
