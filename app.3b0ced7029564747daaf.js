@@ -5463,8 +5463,8 @@
                                             },
                                             tags: n.tags,
                                             prev: {
-                                                status: n.prev.post_status,
                                                 id: n.prev.ID,
+                                                status: n.prev.post_status,
                                                 title: n.prev.post_title,
                                                 date: n.prev.post_date,
                                                 slug: n.prev.post_name,
