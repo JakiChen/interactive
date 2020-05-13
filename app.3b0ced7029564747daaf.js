@@ -8316,7 +8316,7 @@
                     contact: "info[at]reedcreative[dot]cc",
                     jobs: "jobs[at]reedcreative[dot]cc"
                 }
-            }, t.path = {}, t.path.baseUrl = "https://reedcreative.cc/assets";
+            }, t.path = {}, t.path.baseUrl = "https://strapi.reedcreative.cc/assets";
             var e = detect.webp ? "webp" : "jpg",
                 o = !detect.webm || ua.ios || ua.ipados ? "mp4" : "webm";
             t.path = {
