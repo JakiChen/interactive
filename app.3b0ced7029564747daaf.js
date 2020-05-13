@@ -5263,7 +5263,7 @@
             };
         c.a.prototype.$eventHub = new c.a;
         o(283);
-        Ye.a.defaults.baseURL = "https://wp.helixes.co/wp-json/wp-json/wp/v2";
+        Ye.a.defaults.baseURL = "https://wp.helixes.co/wp-json/wp/v2";
         var ei = function (t, e) {
                 t.app.$api = {
                     getIdNameFromSlug: function (t) {
