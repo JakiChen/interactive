@@ -4518,7 +4518,7 @@
                         href: "https://wp.reedcreative.cc"
                     }, {
                         rel: "preconnect",
-                        href: "https://reedcreative.s3.amazonaws.com",
+                        href: "https://strapi.reedcreative.cc",
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
