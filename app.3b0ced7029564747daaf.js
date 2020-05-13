@@ -292,7 +292,7 @@
                                     baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
                                     assetsDir: "https://reedcreative.cc/assets",
-                                    wpBaseUrl: "https://wp.helixes.co",
+                                    wpBaseUrl: "  ",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://helixes.s3.amazonaws.com",
                                     baseDescJa: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
@@ -5263,14 +5263,14 @@
             };
         c.a.prototype.$eventHub = new c.a;
         o(283);
-        Ye.a.defaults.baseURL = "https://wp.helixes.co/wp-json/wp/v2";
+        Ye.a.defaults.baseURL = "  /wp-json/wp/v2";
         var ei = function (t, e) {
                 t.app.$api = {
                     getIdNameFromSlug: function (t) {
                         return new Promise((function (e, o) {
                             var n = (t = t || {}).type || "category",
                                 r = t.slug || null,
-                                c = "".concat("https://wp.helixes.co", "/wp-json/slug/v1/").concat(n, "/").concat(r);
+                                c = "".concat("  ", "/wp-json/slug/v1/").concat(n, "/").concat(r);
                             Ye.a.get(c).then((function (t) {
                                 var data = t.data;
                                 200 === t.status && t.data.length ? e({
