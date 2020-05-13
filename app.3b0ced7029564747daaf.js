@@ -5263,14 +5263,14 @@
             };
         c.a.prototype.$eventHub = new c.a;
         o(283);
-        Ye.a.defaults.baseURL = "  /wp-json/wp/v2";
+        Ye.a.defaults.baseURL = "https://wp.helixes.co/wp-json/wp-json/wp/v2";
         var ei = function (t, e) {
                 t.app.$api = {
                     getIdNameFromSlug: function (t) {
                         return new Promise((function (e, o) {
                             var n = (t = t || {}).type || "category",
                                 r = t.slug || null,
-                                c = "".concat("  ", "/wp-json/slug/v1/").concat(n, "/").concat(r);
+                                c = "".concat("https://wp.helixes.co", "/wp-json/slug/v1/").concat(n, "/").concat(r);
                             Ye.a.get(c).then((function (t) {
                                 var data = t.data;
                                 200 === t.status && t.data.length ? e({
