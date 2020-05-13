@@ -4515,10 +4515,10 @@
                         href: "https://reedcreative.cc"
                     }, {
                         rel: "preconnect",
-                        href: "https://wp.reedcreative.cc"
+                        href: " "
                     }, {
                         rel: "preconnect",
-                        href: "https://reedcreative.s3.amazonaws.com",
+                        href: " ",
                         crossorigin: ""
                     }, {
                         rel: "preconnect",
