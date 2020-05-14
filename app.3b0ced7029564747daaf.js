@@ -292,7 +292,7 @@
                                     baseUrl: "https://reedcreative.cc",
                                     baseDir: "/",
                                     assetsDir: "https://reedcreative.cc/assets",
-                                    wpBaseUrl: "https://wp.reedcreative.cc",
+                                    wpBaseUrl: "https://wp.helixes.co",
                                     wpRestApi: "/wp-json/wp/v2",
                                     baseCdnUrl: "https://strapi.reedcreative.cc",
                                     baseDescJa: "Helixes Co.，Ltd.是一家使用创意解决方案来解决问题的总体计划公司。 我们计划和管理各种不受框架约束的事物，例如广告制作，品牌和数字产品开发以及艺术家管理。",
