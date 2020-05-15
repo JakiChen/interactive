@@ -400,12 +400,12 @@
                         staticClass: "m-post-body | legals-content"
                     }, [t._m(0), t._v(" "), o("div", {
                         staticClass: "legals-content-child"
-                    }, [o("p", [t._v("株式会社Helixes コーポレートサイト（"), o("nuxt-link", {
+                    }, [o("p", [t._v("Helixes 公司网站（"), o("nuxt-link", {
                         staticClass: "link",
                         attrs: {
                             to: t.localePath("index")
                         }
-                    }, [t._v("helixes.co")]), t._v(" Helixes Co.，Ltd.（以下简称本公司）经营此网站。 在使用本网站之前，请阅读以下使用条款，并且仅在您同意这些条款的情况下才能使用本网站。")], 1)]), t._v(" "), t._m(1), t._v(" "), t._m(2), t._v(" "), t._m(3), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), t._m(6), t._v(" "), o("div", {
+                    }, [t._v("helixes")]), t._v(" Helixes Co.，Ltd.（以下简称本公司）经营此网站。 在使用本网站之前，请阅读以下使用条款，并且仅在您同意这些条款的情况下才能使用本网站。")], 1)]), t._v(" "), t._m(1), t._v(" "), t._m(2), t._v(" "), t._m(3), t._v(" "), t._m(4), t._v(" "), t._m(5)]), t._v(" "), t._m(6), t._v(" "), o("div", {
                         staticClass: "m-post-body | legals-content | last"
                     }, [t._m(7), t._v(" "), o("div", {
                         staticClass: "legals-content-child"
@@ -423,7 +423,7 @@
                         attrs: {
                             to: t.localePath("index")
                         }
-                    }, [t._v("helixes.co")]), t._v("  (“this site”), is operated by Helixes Inc. (“we,” “our”). Please read the terms below before using this site; please only use this site if you agree to these terms.")], 1)]), t._v(" "), t._m(14), t._v(" "), t._m(15), t._v(" "), t._m(16), t._v(" "), t._m(17), t._v(" "), t._m(18)]), t._v(" "), t._m(19), t._v(" "), o("div", {
+                    }, [t._v("helixes")]), t._v("  (“this site”), is operated by Helixes Inc. (“we,” “our”). Please read the terms below before using this site; please only use this site if you agree to these terms.")], 1)]), t._v(" "), t._m(14), t._v(" "), t._m(15), t._v(" "), t._m(16), t._v(" "), t._m(17), t._v(" "), t._m(18)]), t._v(" "), t._m(19), t._v(" "), o("div", {
                         staticClass: "m-post-body | legals-content | last"
                     }, [t._m(20), t._v(" "), o("div", {
                         staticClass: "legals-content-child"
@@ -477,7 +477,7 @@
                         staticClass: "legals-content-child"
                     }, [e("h4", {
                         staticClass: "sub-ttl"
-                    }, [this._v("商標")]), this._v(" "), e("p", [this._v("本网站上的所有商标，徽标和服务标志均为公司和业务合作伙伴拥有和使用的商标。 严禁未经授权使用它们。")])])
+                    }, [this._v("商标")]), this._v(" "), e("p", [this._v("本网站上的所有商标，徽标和服务标志均为公司和业务合作伙伴拥有和使用的商标。 严禁未经授权使用它们。")])])
                 }, function () {
                     var t = this.$createElement,
                         e = this._self._c || t;
@@ -529,7 +529,7 @@
                         staticClass: "legals-content-child"
                     }, [o("h4", {
                         staticClass: "sub-ttl"
-                    }, [t._v("ウェブビーコンとは")]), t._v(" "), o("p", [t._v("网络信标是嵌入在网站中的小型图像文件（称为 “Clear GIF” 等），可让您知道您是否访问过该网站以及访问次数。 这将是")]), t._v(" "), o("p", [t._v("通常在网站上找到的电子图像（包括广告横幅）可以充当网络信标。 Web信标通常是非常小的1x1像素的横幅状文件。")]), t._v(" "), o("p", [t._v("我们使用的网络信标不会收集，统计，监视或共享有关此网站访问者的个人信息，而是创建有关您对网站使用情况的匿名汇总统计信息。 我们用于收集此信息的网络信标系统是Google Analytics（分析）由Google，Inc.（"), o("a", {
+                    }, [t._v("什么是网络信标")]), t._v(" "), o("p", [t._v("网络信标是嵌入在网站中的小型图像文件（称为 “Clear GIF” 等），可让您知道您是否访问过该网站以及访问次数。 这将是")]), t._v(" "), o("p", [t._v("通常在网站上找到的电子图像（包括广告横幅）可以充当网络信标。 Web信标通常是非常小的1x1像素的横幅状文件。")]), t._v(" "), o("p", [t._v("我们使用的网络信标不会收集，统计，监视或共享有关此网站访问者的个人信息，而是创建有关您对网站使用情况的匿名汇总统计信息。 我们用于收集此信息的网络信标系统是Google Analytics（分析）由Google，Inc.（"), o("a", {
                         attrs: {
                             href: "https://www.google.com/analytics",
                             target: "_blank",
