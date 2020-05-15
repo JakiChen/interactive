@@ -11,7 +11,7 @@
         },
         314: function (t, e) {
             t.exports = function (t) {
-                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"找不到页面"},"en":{"title":"Not Found"}}'), delete t.options._Ctor
+                t.options.__i18n = t.options.__i18n || [], t.options.__i18n.push('{"ja":{"title":"未找到页面"},"en":{"title":"Not Found"}}'), delete t.options._Ctor
             }
         },
         348: function (t, e, n) {
