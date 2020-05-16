@@ -141,7 +141,7 @@
         return f.d(r, "a", r), r
     }, f.o = function (object, e) {
         return Object.prototype.hasOwnProperty.call(object, e)
-    }, f.p = "https://reedcreative.cc/", f.oe = function (e) {
+    }, f.p = "https://helicx.cc/", f.oe = function (e) {
         throw console.error(e), e
     };
     var d = window.webpackJsonp = window.webpackJsonp || [],
